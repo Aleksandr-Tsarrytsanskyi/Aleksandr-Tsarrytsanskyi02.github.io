@@ -221,7 +221,8 @@ body {
     }
 
    #main .top {
-      margin-left: 5px
+      margin-left: 5px;
+      margin-top: 15px;
       
      #main .padding_right {
         padding-left: 0 ! important;
