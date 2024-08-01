@@ -212,11 +212,18 @@ body {
 
     }
 
+   #main .returns p {
+      margin-top: 10px;
+     
     #main .active_eyeglasses {
         width: 180px;
         font-size: 90%;
     }
 
+     #main .padding_right {
+        padding-left: 0 !important;
+    }  
+      
     #main section p {
         font-size: 90%;
     }
