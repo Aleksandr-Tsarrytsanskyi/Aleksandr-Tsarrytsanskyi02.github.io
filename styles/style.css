@@ -221,7 +221,7 @@ body {
     }
 
      #main .padding_right {
-        padding-left: 0 !important;
+        padding-left: 0;
     }  
       
     #main section p {
