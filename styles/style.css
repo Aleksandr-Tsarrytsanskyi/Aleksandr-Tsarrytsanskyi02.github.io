@@ -230,6 +230,10 @@ body {
         font-size: 90%;
     }
 
+      #main .returns p {
+            margin-top: 10px;
+        
+
     @media screen and (max-width: 588px) {
         #main section {
             width: 500px;
