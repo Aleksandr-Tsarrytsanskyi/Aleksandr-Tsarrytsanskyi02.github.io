@@ -249,6 +249,9 @@ body {
             margin-left: 8px;
             margin-top: 15px;
         }
+        #main .returns p {
+            margin-top: 10px;
+        }
     }
 
     @media screen and (max-width: 510px) {
